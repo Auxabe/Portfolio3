@@ -1,0 +1,31 @@
+{
+<<<<<<< HEAD
+  "name": "astro-portfolio",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0"
+  }
+}
+=======
+  "name": "portofolio-template",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.3.3",
+    "astro": "^4.0.7",
+    "typescript": "^5.3.3"
+  }
+}
+>>>>>>> 0c0c039911361f1c34b58350abb6fb98d0b495b3
