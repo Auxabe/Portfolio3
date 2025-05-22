@@ -1,18 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "astro-portfolio",
-  "type": "module",
-  "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview"
-  },
-  "dependencies": {
-    "astro": "^4.0.0"
-  }
-}
-=======
-  "name": "portofolio-template",
+  "name": "portfolio3",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -28,4 +15,3 @@
     "typescript": "^5.3.3"
   }
 }
->>>>>>> 0c0c039911361f1c34b58350abb6fb98d0b495b3
